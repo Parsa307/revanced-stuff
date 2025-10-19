@@ -9,6 +9,7 @@
 "hide_comments_ai_chat_summary": true,
 "hide_comments_ai_summary": true,
 "hide_comments_by_members_header": true,
+"hide_comments_emoji_and_timestamp_buttons": true,
 "hide_doodles": true,
 "hide_endscreen_cards": true,
 "hide_hype_button": true,
