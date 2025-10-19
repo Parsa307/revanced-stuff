@@ -22,6 +22,8 @@
 "hide_shorts_subscriptions": true,
 "hide_ticket_shelf": true,
 "remove_viewer_discretion_dialog": true,
+"seekbar_custom_color": true,
+"seekbar_custom_color_accent": "#FF0033",
 "shorts_quality_default_mobile": 1080,
 "shorts_quality_default_wifi": 1080,
 "video_quality_default_mobile": 1080,
