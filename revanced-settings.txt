@@ -1,3 +1,4 @@
+"announcements": false,
 "custom_filter": true,
 "custom_filter_strings": "badge$Hyped\nbadge$hyped\nbadge$Auto-dubbed\nbadge$Free with ads\nbadge$YouTube featured\nhype_points_factoid\nvideo_description_header$Members first",
 "end_screen_suggested_video": true,
