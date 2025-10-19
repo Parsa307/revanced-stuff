@@ -1,3 +1,3 @@
 ## ReVanced Stuff:
 
-I personally use [ReVancedXposed](https://github.com/chsbuffer/ReVancedXposed) for the easier, usage.
+I personally use [ReVanced Patches](https://github.com/ReVanced/revanced-patches) for the easier, usage.
