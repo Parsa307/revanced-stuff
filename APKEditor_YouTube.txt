@@ -1,0 +1,1 @@
+apkeditor b -t sig -i ReVanced_20.14.43.apk -sig $PWD/YouTube_20.14.43_decompile_sig/signatures -o ReVanced_20.14.43_Root.apk
