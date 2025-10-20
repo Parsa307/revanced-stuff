@@ -1,0 +1,1 @@
+java -jar revanced-cli-5.0.0-all.jar patch -p patches-5.43.1.rvp -d "GmsCore support" -d "Spoof video streams" -d "Custom branding" -d "Change header" --rip-lib arm64-v8a --rip-lib armeabi-v7a --rip-lib x86 --unsigned --purge -o ReVanced_20.14.43_x86_64.apk YouTube_20.14.43.apk
