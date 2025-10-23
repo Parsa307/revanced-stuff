@@ -3,6 +3,7 @@
 "custom_filter_strings": "badge$Hyped\nbadge$hyped\nbadge$Auto-dubbed\nbadge$Free with ads\nbadge$YouTube featured\nhype_points_factoid\nvideo_description_header$Members first",
 "end_screen_suggested_video": true,
 "external_downloader_action_button": true,
+"header_logo": "premium",
 "hide_ai_generated_video_summary_section": true,
 "hide_ask_button": true,
 "hide_ask_section": true,
