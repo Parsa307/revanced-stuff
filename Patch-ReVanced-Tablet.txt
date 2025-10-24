@@ -1,1 +1,1 @@
-java -jar revanced-cli-5.0.0-all.jar patch -p patches-5.43.1.rvp --rip-lib armeabi-v7a --rip-lib x86 --rip-lib x86_64 --purge -o ReVanced-Tablet_20.14.43.apk YouTube_20.14.43.apk
+java -jar revanced-cli-5.0.0-all.jar patch -p patches-5.44.0.rvp --keystore ReVanced-Tablet.keystore --rip-lib armeabi-v7a --rip-lib x86 --rip-lib x86_64 --purge -o ReVanced-Tablet_20.14.43.apk YouTube_20.14.43.apk
